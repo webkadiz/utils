@@ -1,0 +1,15 @@
+{
+  "name": "@webkadiz/utils",
+  "version": "1.0.0",
+  "description": "Utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Tkachenko Vladislav",
+    "email": "webkadiz@gmail.com"
+  },
+  "license": "ISC"
+}
